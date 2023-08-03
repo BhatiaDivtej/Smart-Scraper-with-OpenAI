@@ -1,10 +1,12 @@
 # Chatting with a Website
+Created by Divtej Bhatia
+MIT License 
 
-### Potential Application for A50:
+### Potential Application for businesses / canbe used for web scrapping complex and continuously evolving websites.
 
 - Use a set of questions to get standard response froma website html. Use OPENAi's chat gpt to do so.
 
-Chat with a website using Apify and ChatGPT. Based on https://github.com/peterw/Chat-with-Github-Repo
+Chat with a website using Apify and ChatGPT. Based on https://github.com/peterw/Chat-with-Github-Repo (Open Source MIT License)
 
 ## Setup
 
