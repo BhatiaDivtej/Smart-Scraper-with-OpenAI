@@ -1,0 +1,10 @@
+streamlit
+streamlit_chat
+langchain
+openai
+python-dotenv
+tiktoken
+chromadb
+apify-client
+typing-inspect==0.8.0
+typing_extensions==4.5.0
