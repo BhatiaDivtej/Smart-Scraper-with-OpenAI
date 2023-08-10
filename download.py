@@ -2,9 +2,11 @@ from decouple import config
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import Chroma
+
 import os
 from langchain.document_loaders.base import Document
 from langchain.indexes import VectorstoreIndexCreator
+
 from langchain.utilities import ApifyWrapper
 
 
