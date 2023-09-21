@@ -1,4 +1,4 @@
-# Chatting with a Website
+# Chatting with a Website's Content
 Created by Divtej Bhatia
 MIT License 
 
